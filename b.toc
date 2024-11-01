@@ -1,4 +1,0 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Mathematical Equations}{2}{}%
-\contentsline {section}{\numberline {3}Including Images}{2}{}%
-\contentsline {section}{\numberline {4}Conclusion}{2}{}%
